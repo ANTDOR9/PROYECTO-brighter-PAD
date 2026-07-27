@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BRIGHTER-PAD</string>
+    <string name="title_activity_main">BRIGHTER-PAD</string>
+    <string name="package_name">com.brighter.pad</string>
+    <string name="custom_url_scheme">com.brighter.pad</string>
+</resources>
