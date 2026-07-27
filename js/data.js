@@ -125,4 +125,60 @@ const appData = {
                 {
                     id: 'editor-svg',
                     name: 'Editor SVG',
-                    description: 'Dise
+                    description: 'Diseño vectorial con exportación en múltiples formatos',
+                    icon: '✏️',
+                    color: '#EC232A',
+                    url: 'https://www.figma.com'
+                },
+                {
+                    id: 'paleta-colores',
+                    name: 'Generador de Paletas',
+                    description: 'Creación de paletas armónicas y accesibles',
+                    icon: '🎨',
+                    color: '#FF6E2B',
+                    url: 'https://coolors.co'
+                },
+                {
+                    id: 'tipografia',
+                    name: 'Tipografía Creativa',
+                    description: 'Exploración y combinación de fuentes',
+                    icon: '🔤',
+                    color: '#2BBC91',
+                    url: 'https://fonts.google.com'
+                }
+            ]
+        },
+        {
+            id: 'ejecutivos',
+            name: '💼 Para Ejecutivos',
+            description: 'Dashboards, informes y herramientas de productividad',
+            accent: 'red-dark',
+            apps: [
+                {
+                    id: 'dashboard-financiero',
+                    name: 'Dashboard Financiero',
+                    description: 'Visualización de KPIs y métricas de negocio',
+                    icon: '📊',
+                    color: '#CD1D2D',
+                    url: '#'
+                },
+                {
+                    id: 'gestor-tareas',
+                    name: 'Gestor de Tareas',
+                    description: 'Organización de equipos y seguimiento de proyectos',
+                    icon: '✅',
+                    color: '#2BBC91',
+                    url: 'https://trello.com'
+                },
+                {
+                    id: 'videoconferencia',
+                    name: 'Videoconferencia',
+                    description: 'Reuniones virtuales con pantalla compartida',
+                    icon: '🎥',
+                    color: '#FF5440',
+                    url: 'https://meet.google.com'
+                }
+            ]
+        }
+    ]
+};
